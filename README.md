@@ -1,1 +1,1 @@
-Created an automated opsec-ish bash script version of win11 AV bypass [script](https://github.com/TeneBrae93/defender_bypass_with_sliver) posted by HackSmarter. Giving all the credit to him for making this possible!
+Automated bash script of the [Windows 11 Defender Bypass](https://github.com/TeneBrae93/defender_bypass_with_sliver) created by [HackSmarter](https://github.com/TeneBrae93).
